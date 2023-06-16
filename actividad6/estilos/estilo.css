@@ -1,0 +1,113 @@
+/* Pon aquí el código CSS que necesites para aplicar los estilos necesarios */
+#caja1{
+    position: relative;
+    top: 95px;
+    left: 300px;
+}
+#caja3{
+    position: relative;
+    left: 300px;
+}
+#bordeazul{
+    position: relative;
+    bottom: 20px;
+}
+.act2{
+    position: relative;
+}
+#caja_1{
+    position: absolute;
+    right: 0px;
+}
+#caja_3{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+#parrafo1{
+    position: absolute;
+    left: 20px;
+    bottom: 0px;
+}
+#parrafo2{
+    position: absolute;
+    bottom: 25px;
+    right: 20px;
+}
+.act3-contenedor{
+    position: relative;
+}
+#rojo{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#azul{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+#amarillo{
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+#roj1{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+#roj2{
+    position: absolute;
+    top: 100px;
+    left: 250px;
+}
+#cabecera{
+    height: 30px;
+    border: 2px solid blue;
+}
+#menu{
+    float: left;
+    height: 130px;
+    width: 30%;
+    border: 2px solid blue;
+}
+#cuerpo{
+    height: 130px;
+    border: 2px solid blue;
+}
+#pie{
+    height: 30px;
+    border: 2px solid blue;
+}
+#gato{
+    border: 2px solid red;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#parrafo-2{
+    position: relative;
+    top: 75px;
+    right: 18%;
+}
+#gato6{
+    border: 2px dotted ;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#perros{
+    border: 2px dotted chocolate;
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#parrafogato2{
+    position: relative;
+    top: 75px;
+    right: 18%;
+}
